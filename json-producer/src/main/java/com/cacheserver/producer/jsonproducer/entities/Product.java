@@ -1,5 +1,7 @@
 package com.cacheserver.producer.jsonproducer.entities;
 
+import java.util.ArrayList;
+
 public class Product {
     String isDeleted;
     String publishState;
